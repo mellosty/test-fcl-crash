@@ -1,0 +1,5 @@
+1. Run emulator from root with `flow emulator`
+2. Run node with `node index.js`
+3. Kill emulator
+
+Why did the node server crash completely? Bruh?
