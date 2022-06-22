@@ -2,7 +2,6 @@ import * as fcl from "@onflow/fcl";
 
 fcl
   .config()
-  .put("flow.network", "testnet")
   .put("accessNode.api", "http://localhost:8888");
 
 setInterval(async () => {
